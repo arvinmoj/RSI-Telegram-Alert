@@ -1,0 +1,5 @@
+
+services:
+  alert-service:
+    build: .
+    restart: always
